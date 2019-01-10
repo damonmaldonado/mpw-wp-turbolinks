@@ -12,7 +12,7 @@ License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
 function mpw_turbolinks_setup() {
 
-	wp_register_script( 'turbolinks', plugin_dir_url( __FILE__ ) . '/js/turbolinks.js', NULL, '5.2.0', true );
+	wp_register_script( 'turbolinks', plugin_dir_url( __FILE__ ) . '/js/turbolinks.js', NULL, '5.2.0', false );
 	wp_enqueue_script( 'turbolinks' );
 
 }
