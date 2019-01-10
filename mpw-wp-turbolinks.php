@@ -3,7 +3,7 @@
 Plugin Name: MPW Turbolinks
 Plugin URI:  
 Description: Load Turbolinks Script
-Version:     1.0.0
+Version:     1.0.1
 License:     GPL3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 */
